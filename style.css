@@ -252,8 +252,9 @@ a{
 }
 .contact-info input,
 .contact-info textarea{
-    width:100%;
+    width:60%;
     padding:10px;
+
     
 }
 .contact-info input:focus,
